@@ -9,4 +9,4 @@
 - ✍️ I have also an [English blog](https://dev.to/afsharm/)
 - ⚡ Fun fact: I have 15+ years of commercial experiences in software engineering
 - 🌍 Check my [StackOverflow](https://stackoverflow.com/users/167670/afshar-mohebi) and [LinkedIn](https://www.linkedin.com/in/afsharm/)
-- 📫 How to reach me: Email me please: afshar [dot] mohebbi [atsign] gmail [dot] com
+- 📫 My email: afshar [dot] mohebbi [atsign] gmail [dot] com
