@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects aligned with my expertise and interests
 - 🤔 I’m looking for help with finding new remote opportunities
 - 💬 Ask me about software engineering and startups
-- ✍️ I have a [Persian blog](http://blog.afsharm.ir/) which recently is focused on non-technical aspects of being a software engineer
-- ✍️ I have also an [English blog](https://dev.to/afsharm/)
+- ✍️ I have an [English blog](https://dev.to/afsharm/)
 - ⚡ Fun fact: I have 15+ years of commercial experiences in software engineering
 - 🌍 Check my [StackOverflow](https://stackoverflow.com/users/167670/afshar-mohebi) and [LinkedIn](https://www.linkedin.com/in/afsharm/)
 - 📫 My email: afshar [dot] mohebbi [atsign] gmail [dot] com
