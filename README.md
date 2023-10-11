@@ -1,7 +1,8 @@
 ### Hi there 👋 - I'm Afshar Mohebi
 
-- 🔭 I’m currently working on ASP.NET Core, MySQL, Node.js and MongoDB in a micro-service oriented environment
-- 🌱 I’m currently trying to master [Nodes.js/Express](https://github.com/afsharm/byprop) and Microservices
+- 🔭 I’m currently working on Node.js/JavaScript and .NET/C# along with MySQL/PostgreSQL and MongoDB in a micro-service oriented environment
+- 🌱 I’m currently trying to learn more about [Nodes.js/Express](https://github.com/afsharm/byprop) and Microservices
+- 🤔 In future, I may get my hands dirty with GO language.
 - 👯 I’m looking to collaborate on open source projects aligned with my expertise and interests
 - 🤔 I’m looking for help with finding new remote opportunities
 - 💬 Ask me about software engineering and startups
