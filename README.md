@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Ryan (Afshar) Mohebi
+### Hi there 👋 - I'm Afshar
 
 - 🔭 I’m currently working on Node.js/JavaScript and .NET/C# along with MySQL/PostgreSQL and MongoDB in a micro-service oriented environment
 - 🌱 I’m currently trying to learn more about [Nodes.js/Express](https://github.com/afsharm/byprop) and Microservices
