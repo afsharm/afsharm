@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Afshar
+### Hi there 👋 - I'm Ryan (Afshar)
 
 - 🔭 I’m currently working on Node.js/JavaScript and .NET/C# along with MySQL/PostgreSQL and MongoDB in a micro-service oriented environment
 - 🌱 I’m currently trying to learn more about [Nodes.js/Express](https://github.com/afsharm/byprop) and Microservices
@@ -9,4 +9,4 @@
 - ✍️ I have an [English blog](https://dev.to/afsharm/)
 - ⚡ Fun fact: I have 15+ years of commercial experiences in software engineering
 - 🌍 Check my [StackOverflow](https://stackoverflow.com/users/167670/afshar-mohebi) and [LinkedIn](https://www.linkedin.com/in/afsharm/)
-- 📫 My email: afshar [dot] mohebbi [atsign] gmail [dot] com
+- 📫 My email: rayn [dot] a [dot] mohebbi [atsign] gmail [dot] com
