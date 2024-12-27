@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Ryan (Afshar)
+### Hi there 👋 - I'm Afshar
 
 - 🔭 I’m currently working on Node.js/JavaScript and .NET/C# along with MySQL/PostgreSQL and MongoDB in a micro-service oriented environment
 - 🌱 In terms of front-end, I have experiences with React.js and Angualr
